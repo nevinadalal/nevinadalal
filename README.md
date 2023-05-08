@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Nevina 👋
+
+- Data Scientist at [Accenture Applied Intelligence](https://www.accenture.com/gb-en/services/ai-artificial-intelligence-index)
+- Previously worked at Accor (Paris) and MXPlayer (Mumbai) with my a focus on recommender systems for OTT platforms and building a Forecasting Algorithm for effective targeting of hotel advertisements
+- Specialized in Machine Learning Forecasting, NLP and Database Architectures
+- Holds a Master's degree in Data Science and Business Analytics from [ESSEC & CentraleSupélec](https://www.essec.edu/en/program/mscs/master-data-sciences-business-analytics/)
+- Certified [Workera Core III Data Science Benchmarking](https://skills.workera.ai/resources/data-scientist/)
+
+### What I'm currently working on
+- Learning towards [GCP Professional Data Engineer certification](https://cloud.google.com/learn/certification/data-engineer)
 
 <!--
 **nevinadalal/nevinadalal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
